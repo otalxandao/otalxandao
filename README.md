@@ -22,7 +22,7 @@ Atualmente, estou explorando novas estratégias para otimização de pipelines e
 
 ## 📫 Vamos nos Conectar!
 
-Entre em contato pelo [LinkedIn](link) ou envie um e-mail para: alexandre@atter.com.br.
+Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alegalvaoengenheirodedados/) ou envie um e-mail para: alexandre@atter.com.br.
 
 ---
 
