@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Alexandre Galvão Lourenço
 
 Bem-vindo(a) ao meu perfil no GitHub!  
-Sou **Engenheiro de Dados**, com experiência em ambientes **Azure** e **AWS**, apaixonado por transformar dados em **insights acionáveis** e construir pipelines **eficientes e escaláveis**.
+Sou **Engenheiro de Dados**, com experiência em ambientes **Azure**, apaixonado por transformar dados em **insights acionáveis** e construir pipelines **eficientes e escaláveis**.
 
 ---
 
@@ -36,7 +36,6 @@ Sou **Engenheiro de Dados**, com experiência em ambientes **Azure** e **AWS**, 
 - ![DP-900](https://img.shields.io/badge/DP--900-Data%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Data Fundamentals**  
 - ![Databricks](https://img.shields.io/badge/Databricks--Associate-Em%20Progresso-orange?logo=databricks) Em andamento: **Databricks Certified Data Engineer Associate**
 
-> Se preferir, também posso adicionar imagens dos certificados nessa seção!
 
 ---
 
