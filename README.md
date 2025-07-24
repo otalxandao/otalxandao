@@ -1,28 +1,59 @@
-# Olá! Eu sou Alexandre Galvão Lourenço 👋
+# 👋 Olá! Eu sou Alexandre Galvão Lourenço
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou engenheiro de dados com foco em ambientes de **Azure** e **AWS**, 
-apaixonado por transformar dados em insights e criar pipelines eficientes e escaláveis.
+Bem-vindo(a) ao meu perfil no GitHub!  
+Sou **Engenheiro de Dados**, com experiência em ambientes **Azure** e **AWS**, apaixonado por transformar dados em **insights acionáveis** e construir pipelines **eficientes e escaláveis**.
 
-## 🔧 Habilidades Técnicas
+---
 
-- **Linguagens**: Python, SQL
-- **Bancos de Dados**: Postgres, MySQL, SQL Server
-- **Ferramentas de BI**: Power BI
-- **Plataformas de Dados**: Databricks, Azure, AWS
+## 🛠️ Habilidades Técnicas
+
+- **Linguagens:** Python, SQL  
+- **Bancos de Dados:** PostgreSQL, MySQL, SQL Server  
+- **Ferramentas de BI:** Power BI  
+- **Plataformas de Dados:** Databricks, Azure, AWS  
+
+---
 
 ## 🚀 Projetos em Destaque
 
-- **[Arquitetura de dados](https://github.com/otalxandao/arquitetura_aplicacao)**: Projeto que integra múltiplas fontes de dados com processamento em Databricks, utilizando Azure e AWS.
+- 📊 [Pipeline de Dados com Azure e Databricks](https://github.com/otalxandao/poc_data_pipeline_social_medias)  
+  Projeto de POC que integra múltiplas fontes de dados (JSONs) com transformação em Python e carga no Data Warehouse via Databricks e Azure Data Factory. Visualização final em Power BI.
 
-- Explore [Demais Repos](https://github.com/otalxandao?tab=repositories) para ver mais sobre os projetos que desenvolvi!
+- 🔍 [Extração de Dados de PDFs](https://github.com/otalxandao/Portifolio)  
+  Script que processa arquivos PDF e converte para estrutura tabular, pronto para inserção em banco de dados.
+
+- 🔗 [Integração com a API do Pipefy](https://github.com/otalxandao/Portifolio)  
+  Rotina de automação via API REST para gerenciamento de cards, com autenticação e consumo de dados estruturados do Pipefy.
+
+- 🧙 [Calculadora de Magias (RPG)](https://github.com/otalxandao/lena)  
+  Projeto que utiliza análise combinatória para gerar combinações de magias com custo de mana baseado em regras de jogos como Tormenta 20.
+
+---
+
+## 🧾 Certificações
+
+- ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Fundamentals**  
+- ![DP-900](https://img.shields.io/badge/DP--900-Data%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Data Fundamentals**  
+- ![Databricks](https://img.shields.io/badge/Databricks--Associate-Em%20Progresso-orange?logo=databricks) Em andamento: **Databricks Certified Data Engineer Associate**
+
+> Se preferir, também posso adicionar imagens dos certificados nessa seção!
+
+---
 
 ## 🌱 Em Desenvolvimento
 
-Atualmente, estou explorando novas estratégias para otimização de pipelines em nuvem e experimentando integrações mais complexas com **Databricks** e **Power BI**.
+Atualmente, estou explorando novas estratégias para:
+- Otimização de pipelines em nuvem
+- Integração de múltiplas fontes com governança
+- Modelos de dados para dashboards operacionais
 
-## 📫 Vamos nos Conectar!
+---
 
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alegalvaoengenheirodedados/) ou envie um e-mail para: alexandre@atter.com.br.
+## 🤝 Vamos nos Conectar!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alegalvaoenheiriodedados)  
+- ✉️ alexandre@atter.com.br  
+- 🌐 [atter.com.br](https://www.atter.com.br)
 
 ---
 
