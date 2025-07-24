@@ -1,4 +1,4 @@
-<img width="990" height="1151" alt="image" src="https://github.com/user-attachments/assets/1dbdcb24-c36d-4066-8870-d112e92170ef" /># 👋 Olá! Eu sou Alexandre Galvão Lourenço
+👋 Olá! Eu sou Alexandre Galvão
 
 Bem-vindo(a) ao meu perfil no GitHub!  
 Sou **Engenheiro de Dados**, com experiência em ambientes **Azure**, apaixonado por transformar dados em **insights acionáveis** e construir pipelines **eficientes e escaláveis**.
