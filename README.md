@@ -5,6 +5,15 @@ Sou **Engenheiro de Dados**, com experiência em ambientes **Azure**, apaixonado
 
 ---
 
+## 🧾 Certificações
+
+- ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Fundamentals**  
+- ![DP-900](https://img.shields.io/badge/DP--900-Data%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Data Fundamentals**  
+- ![Databricks](https://img.shields.io/badge/Databricks--Associate-Em%20Progresso-orange?logo=databricks) Em andamento: **Databricks Certified Data Engineer Associate**
+
+
+---
+
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens:** Python, SQL  
@@ -17,7 +26,7 @@ Sou **Engenheiro de Dados**, com experiência em ambientes **Azure**, apaixonado
 ## 🚀 Projetos em Destaque
 
 
-- 🗺️ [Pipeline de Dados com Azure e Databricks](https://github.com/otalxandao/location_category_analyzer)  
+- 🗺️ [Análise de Proximidade Geográfica — Lojas & Clientes](https://github.com/otalxandao/location_category_analyzer)  
   Projeto em Python que recebe um Excel com coordenadas (latitude/longitude) e categorias (cliente/loja), projeta em EPSG:3857 para trabalhar em metros, e calcula quantos pontos de cada categoria estão dentro de raios de 50 km, 100 km, 200 km e 300 km uns dos outros usando GeoPandas e Shapely.
 
 - 🧙 [Calculadora de Magias (RPG)](https://github.com/otalxandao/lena)  
@@ -34,14 +43,7 @@ Sou **Engenheiro de Dados**, com experiência em ambientes **Azure**, apaixonado
 
 ---
 
-## 🧾 Certificações
 
-- ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Fundamentals**  
-- ![DP-900](https://img.shields.io/badge/DP--900-Data%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Data Fundamentals**  
-- ![Databricks](https://img.shields.io/badge/Databricks--Associate-Em%20Progresso-orange?logo=databricks) Em andamento: **Databricks Certified Data Engineer Associate**
-
-
----
 
 ## 🌱 Em Desenvolvimento
 
