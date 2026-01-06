@@ -9,7 +9,7 @@ Sou **Engenheiro de Dados**, com experiência em ambientes **Azure**, apaixonado
 
 - ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Fundamentals**  
 - ![DP-900](https://img.shields.io/badge/DP--900-Data%20Fundamentals-blue?logo=microsoft-azure) Microsoft Certified: **Azure Data Fundamentals**  
-- ![Databricks](https://img.shields.io/badge/Databricks--Associate-Em%20Progresso-orange?logo=databricks) Em andamento: **Databricks Certified Data Engineer Associate**
+- ![Databricks](https://img.shields.io/badge/Databricks--Associate-Em%20Associate-Blue?logo=databricks) Em andamento: **Databricks Certified Data Engineer Associate**
 
 
 ---
